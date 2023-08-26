@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-ss",
+  "license": "MIT",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "eslint-config-next": "13.4.19",
+    "eslint-config-prettier": "^9.0.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,2 @@
+# Boilerplate NextJS + Express monorepo
+
